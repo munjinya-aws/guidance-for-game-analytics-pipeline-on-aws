@@ -35,6 +35,3 @@ accounts:
   - NAME: "QA"
     ACCOUNT: "021891573108"
     REGION: "ap-northeast-1"
-  - NAME: "PROD"
-    ACCOUNT: "021891573108"
-    REGION: "ap-northeast-1"
